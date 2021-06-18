@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on information science
 - 🌱 I’m currently learning NER and NLP
 - 👯 I’m looking to collaborate on any problems
