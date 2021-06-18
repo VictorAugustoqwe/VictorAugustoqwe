@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on information science
 - 🌱 I’m currently learning NER and NLP
 - 👯 I’m looking to collaborate on any problems
+- 🌎 I'm brazilian, and I know how to speak English and Portuguese
 - 📫 How to reach me: Linkedin or twitter
 - ⚡ Fun fact: I like playing instruments, and doing things with my friends
 
