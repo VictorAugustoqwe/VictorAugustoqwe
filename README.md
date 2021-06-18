@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAugustoqwe&theme=github_dark&show_icons=true)](https://github.com/VictorAugustoqwe)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAugustoqwe&theme=discord_old_blurple&show_icons=true)](https://github.com/VictorAugustoqwe)
 
 - 🔭 I’m currently working on information science
 - 🌱 I’m currently learning NER and NLP
