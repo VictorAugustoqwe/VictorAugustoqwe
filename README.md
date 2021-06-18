@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAugustoqwe&theme=solarized-dark&show_icons=true)](github.com/VictorAugustoqwe)
+
 - 🔭 I’m currently working on information science
 - 🌱 I’m currently learning NER and NLP
 - 👯 I’m looking to collaborate on any problems
