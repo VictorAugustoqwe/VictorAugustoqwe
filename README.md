@@ -2,7 +2,8 @@
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAugustoqwe&theme=discord_old_blurple&show_icons=true)](https://github.com/VictorAugustoqwe)
 
-- 🔭 I’m currently working on information science
+- 📚 I'm an undergraduate on Information Systems at <a href="https://ufmg.br/" target="_blank">UFMG</a>
+- 🔭 I’m currently open to work
 - 🌱 I’m currently learning NER and NLP
 - 👯 I’m looking to collaborate on any problems
 - 🌎 I'm brazilian, and I know how to speak English and Portuguese
